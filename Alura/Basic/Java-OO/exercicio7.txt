@@ -1,0 +1,7 @@
+Saldo anterior da conta 1000.0
+Saldo atualizado 1010.0
+Saldo anterior da conta 1000.0
+Saldo atualizado 1020.0
+Saldo anterior da conta 999.9
+Saldo atualizado 1029.897
+Saldo Total: 3059.897
